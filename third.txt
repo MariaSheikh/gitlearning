@@ -1,1 +1,3 @@
 added a new file
+
+combination of git and smart git
